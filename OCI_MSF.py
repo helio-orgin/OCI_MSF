@@ -17,7 +17,7 @@ while True:
         os.system("git clone https://github.com/helio-orgin/OCI_MSF/blob/main/metasploit.sh")
         os.system("chmod +x metasploit.sh")
         os.system("./metasploit.sh")
-        print("Thanks for using our tool ---->  Origin Cyber Sec")
+        print("Thanks for using our tool ---->  Origin Cyber Info")
         break
     elif choice in no:
         print("Try this tool when you have sufficient data. Thankyou for using our tool")
